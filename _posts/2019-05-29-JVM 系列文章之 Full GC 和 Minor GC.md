@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      JVM 系列文章之 Full GC 和 Minor GC
-subtitle:   我的测试1
+subtitle:   Full GC 和 Minor GC 的区别
 date:       2019-05-29
 author:     mahjong
 header-img: img/post-bg-swift.jpg
